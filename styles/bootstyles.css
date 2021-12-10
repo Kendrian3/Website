@@ -1,0 +1,33 @@
+/*Navigation*/
+header {
+        left: 5px;
+        right: 5px;
+        height: 100px;
+        text-align-last: center;
+        color:black
+}
+p {
+    font-size: 15px;
+}
+
+/*Tableau*/
+body {
+        top: 114px;
+        bottom: 64px;
+        left: 114px;
+        right: 114px
+    }
+
+/*Footer*/
+
+footer {
+    padding-bottom: 7px;
+    text-align: center;
+    align-content: center;
+    color: navy
+    }
+
+.caption {
+    font-size: 10px;
+    font-style: italic
+}
